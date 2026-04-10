@@ -75,7 +75,7 @@
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omthorat2004&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -84,8 +84,6 @@
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omthorat2004&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
----
 
 > **Note:** If stats don't load, please wait a moment or refresh. GitHub API may take a few seconds to generate the stats for the first time.
 ---
