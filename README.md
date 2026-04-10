@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 | Category | Technologies |
 |----------|-------------|
@@ -22,7 +22,7 @@
 
 ---
 
-## 🎓 Education
+## Education
 
 | Degree | Institution | CGPA | Year |
 |--------|-------------|------|------|
@@ -30,7 +30,7 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### [DevProof](https://github.com/omthorat2004/DevProof)
 > Full-stack portfolio platform with GitHub OAuth 2.0 authentication and automated pull request integration
@@ -61,25 +61,33 @@
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-- ✅ Solved **300+ problems** on coding platforms
+- Solved **300+ problems** on coding platforms
 - ⭐ **CodeChef Rating:** 1430 (2★)
 
 ---
 
-## 📊 Coding Profiles
+## Coding Profiles
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-omthorat15-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/omthorat15)
 [![Codeforces](https://img.shields.io/badge/Codeforces-RyujinOm-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/RyujinOm)
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
-![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=omthorat2004&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omthorat2004&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omthorat2004&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omthorat2004&theme=radical" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omthorat2004&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
+---
+
+> **Note:** If stats don't load, please wait a moment or refresh. GitHub API may take a few seconds to generate the stats for the first time.
 ---
 
 ## 🤝 Connect With Me
