@@ -68,10 +68,6 @@
 
 ---
 
-## Coding Profiles
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-omthorat15-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/omthorat15)
-[![Codeforces](https://img.shields.io/badge/Codeforces-RyujinOm-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/RyujinOm)
 
 ---
 
