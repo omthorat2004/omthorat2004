@@ -1,15 +1,11 @@
-<div align="center">
+# Om Thorat
 
-## Om Thorat
-
-Backend engineer · Python · FastAPI · PostgreSQL
+Backend engineer · Python, FastAPI, PostgreSQL
 B.Tech Computer Science, 2026
 
-</div>
+[Email](mailto:omthorat1005@gmail.com) · [LinkedIn](https://linkedin.com/in/omthoratcse) · [LeetCode](https://leetcode.com/u/mugiwara12345) · [Codeforces](https://codeforces.com/profile/RyujinOm)
 
-<br>
-
-### Open source
+## Open source
 
 10+ pull requests merged across 4 upstream repositories.
 
@@ -22,28 +18,20 @@ B.Tech Computer Science, 2026
 **[Headroom](https://github.com/headroomlabs-ai/headroom/pull/238)**
 MCP command resolution fixed to use a stable CLI entrypoint
 
-<br>
+## Projects
 
-### Projects
-
-**[SyncSpace](https://github.com/omthorat2004/SyncSpace)**
-Collaborative workspace for notes, links, and code snippets. Layered FastAPI backend, role-based permissions, Redis caching.
-`FastAPI` `PostgreSQL` `Redis` `React`
+**[Milo](https://github.com/omthorat2004/Milo)** · [live](https://milo-nu-two.vercel.app/) — building
+Privacy-conscious resume analytics. Share a link instead of the file and see views, downloads, and time per page — never who read it. Landing page shipped, FastAPI backend next.
+`Next.js` `Three.js` `FastAPI` `MongoDB`
 
 **[Dock](https://github.com/omthorat2004/dock)** · [live](https://dock-psi-drab.vercel.app/) — building
 Revision workspace: a space per lesson, topics as cards on a canvas, each opening a tutor scoped to that topic. Bring-your-own Gemini key behind a provider abstraction.
 `Next.js` `FastAPI` `MongoDB`
 
-**[Milo](https://github.com/omthorat2004/Milo)** · [live](https://milo-nu-two.vercel.app/) — building
-Privacy-conscious resume analytics. Share a tracking link instead of the file and see views, downloads, and which pages held attention — never who read it, because it is never collected. Landing page shipped with a WebGL scroll story and a waitlist behind a swappable storage adapter; FastAPI event and analytics backend next.
-`Next.js` `Three.js` `FastAPI` `MongoDB`
+**[SyncSpace](https://github.com/omthorat2004/SyncSpace)**
+Collaborative workspace for notes, links, and code snippets. Layered FastAPI backend, role-based permissions, Redis caching.
+`FastAPI` `PostgreSQL` `Redis` `React`
 
 **[DukaanBol](https://github.com/omthorat2004/DukaanBol)** — building
 Trilingual site builder for small Indian businesses. Passwordless phone-OTP auth via Twilio.
 `Next.js` `FastAPI` `MongoDB`
-
-<br>
-
-### Contact
-
-[omthorat1005@gmail.com](mailto:omthorat1005@gmail.com) · [LinkedIn](https://linkedin.com/in/omthoratcse) · [LeetCode](https://leetcode.com/u/mugiwara12345) · [Codeforces](https://codeforces.com/profile/RyujinOm)
