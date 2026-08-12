@@ -1,7 +1,10 @@
 # Om Thorat
 
-Backend engineer · Python, FastAPI, PostgreSQL
+Full stack engineer
 B.Tech Computer Science, 2026
+
+**Frontend** · JavaScript, TypeScript, React, Next.js, Tailwind
+**Backend** · Python, FastAPI, PostgreSQL, MongoDB, Redis
 
 [Email](mailto:omthorat1005@gmail.com) · [LinkedIn](https://linkedin.com/in/omthoratcse) · [LeetCode](https://leetcode.com/u/mugiwara12345) · [Codeforces](https://codeforces.com/profile/RyujinOm)
 
