@@ -15,9 +15,6 @@ B.Tech Computer Science, 2026
 **[FuturamaAPI](https://github.com/koldakov/futuramaapi/pulls?q=is%3Apr+author%3Aomthorat2004)**
 4 merged: password-reset flow, signup page with validation
 
-**[Headroom](https://github.com/headroomlabs-ai/headroom/pull/238)**
-MCP command resolution fixed to use a stable CLI entrypoint
-
 ## Projects
 
 **[Milo](https://github.com/omthorat2004/Milo)** · [live](https://milo-nu-two.vercel.app/) · building
