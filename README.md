@@ -3,7 +3,7 @@
 Full stack engineer
 B.Tech Computer Science, 2026
 
-**Frontend** · JavaScript, TypeScript, React, Next.js, Tailwind
+**Frontend** · JavaScript, TypeScript, React, Next.js, Tailwind, Electron
 **Backend** · Python, FastAPI, PostgreSQL, MongoDB, Redis
 
 [Email](mailto:omthorat1005@gmail.com) · [LinkedIn](https://linkedin.com/in/omthoratcse) · [LeetCode](https://leetcode.com/u/mugiwara12345) · [Codeforces](https://codeforces.com/profile/RyujinOm)
@@ -19,6 +19,10 @@ B.Tech Computer Science, 2026
 4 merged: password-reset flow, signup page with validation
 
 ## Projects
+
+**[Kai](https://github.com/omthorat2004/Kai)** · [site](https://omthorat2004.github.io/Kai/) · [download](https://github.com/omthorat2004/Kai/releases/latest)
+Desktop launcher for dev servers. Saved projects start with one click: live ANSI logs per app, sub-applications grouped under one project, and process-group kills so stopping a server never leaves its port bound. Ships as a dmg for Apple Silicon and Intel.
+`Electron` `React` `Vite`
 
 **[Milo](https://github.com/omthorat2004/Milo)** · [live](https://milo-nu-two.vercel.app/) · building
 Privacy-conscious resume analytics. Share a link instead of the file and see views, downloads, and time per page. Never who read it. Landing page shipped, FastAPI backend next.
