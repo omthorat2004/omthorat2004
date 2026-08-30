@@ -15,6 +15,9 @@ B.Tech Computer Science, 2026
 **[OpenTelemetry Ecosystem Explorer](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer/pulls?q=is%3Apr+author%3Aomthorat2004)** · CNCF
 3 merged: Collector component URL restructure, Java agent version as a query parameter
 
+**[studio-json-schema](https://github.com/ioflux-org/studio-json-schema/pulls?q=is%3Apr+author%3Aomthorat2004)** · ioflux
+1 merged: parent/child navigation in the node popup, with the buttons rendering only when a node has one
+
 **[FuturamaAPI](https://github.com/koldakov/futuramaapi/pulls?q=is%3Apr+author%3Aomthorat2004)**
 4 merged: password-reset flow, signup page with validation
 
