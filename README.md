@@ -28,7 +28,7 @@ Desktop launcher for dev servers. Saved projects start with one click: live ANSI
 `Electron` `React` `Vite`
 
 **[Storely](https://github.com/omthorat2004/Storely)**
-Vlog archive that stores video in a Telegram channel instead of paid cloud storage. Recordings are split into 18 MiB parts — a bot may upload 50 MB but can only fetch 20 MB back, so anything larger uploads fine and is then unreadable. Parts go up one at a time under the per-chat rate limit, with `retry_after` honoured and progress in SQLite, so an interrupted upload resumes at the part that was in flight.
+Vlog archive that stores video in a Telegram channel instead of paid cloud storage. Recordings are split into 18 MiB parts, because a bot may upload 50 MB but can only fetch 20 MB back, so anything larger uploads fine and is then unreadable. Parts go up one at a time under the per-chat rate limit, with `retry_after` honoured and progress in SQLite, so an interrupted upload resumes at the part that was in flight.
 `React Native` `Expo` `TypeScript` `SQLite`
 
 **[Milo](https://github.com/omthorat2004/Milo)** · [live](https://milo-nu-two.vercel.app/) · building
