@@ -27,6 +27,10 @@ B.Tech Computer Science, 2026
 Desktop launcher for dev servers. Saved projects start with one click: live ANSI logs per app, sub-applications grouped under one project, and process-group kills so stopping a server never leaves its port bound. Ships as a dmg for Apple Silicon and Intel.
 `Electron` `React` `Vite`
 
+**[Storely](https://github.com/omthorat2004/Storely)**
+Vlog archive that stores video in a Telegram channel instead of paid cloud storage. Recordings are split into 18 MiB parts — a bot may upload 50 MB but can only fetch 20 MB back, so anything larger uploads fine and is then unreadable. Parts go up one at a time under the per-chat rate limit, with `retry_after` honoured and progress in SQLite, so an interrupted upload resumes at the part that was in flight.
+`React Native` `Expo` `TypeScript` `SQLite`
+
 **[Milo](https://github.com/omthorat2004/Milo)** · [live](https://milo-nu-two.vercel.app/) · building
 Privacy-conscious resume analytics. Share a link instead of the file and see views, downloads, and time per page. Never who read it. Landing page shipped, FastAPI backend next.
 `Next.js` `Three.js` `FastAPI` `MongoDB`
@@ -38,7 +42,3 @@ Revision workspace: a space per lesson, topics as cards on a canvas, each openin
 **[SyncSpace](https://github.com/omthorat2004/SyncSpace)**
 Collaborative workspace for notes, links, and code snippets. Layered FastAPI backend, role-based permissions, Redis caching.
 `FastAPI` `PostgreSQL` `Redis` `React`
-
-**[DukaanBol](https://github.com/omthorat2004/DukaanBol)** · building
-Trilingual site builder for small Indian businesses. Passwordless phone-OTP auth via Twilio.
-`Next.js` `FastAPI` `MongoDB`
